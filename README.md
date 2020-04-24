@@ -1,7 +1,7 @@
 # Programming Languages Parts A, B and C
 
 This repository contains examples codes and my solutions for programming
-assignments and exams in this set of courses. You should not use this codes
+assignments and exams in this set of courses. You should not use these codes
 for your own solutions in case you are doing the course. But you could study
 them for learning purposes.
 
